@@ -6,7 +6,7 @@ public class AB : EditorWindow
 {
     private bool open;
 
-    [MenuItem("卡进度/修改循环状态")]
+    [MenuItem("AB包/打包")]
     static void AB_Built()
     {
         string dir = "AssetBundles"; //相对路径
