@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3902905990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 565c6b52ad223580a4456572946d2410
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Nea.mat
+Dependencies: []

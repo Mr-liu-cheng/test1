@@ -1,0 +1,96 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "入场"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "手A"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "手B"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "手C"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "手指"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "嘴形状"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part7",
+			"Name": "摸头.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "ﾗ� 38"
+		},
+		{
+			"Id": "Part6",
+			"Name": "文件夹1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ｸﾟｵﾜｵﾜｴｧｶｵ"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ｸﾟﾒﾗｰｲ"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ﾗ� 40"
+		},
+		{
+			"Id": "Part5",
+			"Name": "touｸﾄ"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3482750963
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ka.unity
+      Dependencies:
+        Dependency_0: as/d.unity
+    Info_1:
+      Name: as/d.unity
+      Dependencies: {}
+    Info_2:
+      Name: prfb.unity
+      Dependencies:
+        Dependency_0: ka.unity
+        Dependency_1: as/f.ll
+    Info_3:
+      Name: as/f.ll
+      Dependencies: {}
+    Info_4:
+      Name: adf.unity
+      Dependencies: {}
+    Info_5:
+      Name: qr.unity
+      Dependencies: {}
